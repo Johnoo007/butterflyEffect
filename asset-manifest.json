@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/butterflyEffect/static/css/main.10cc203c.css",
+    "main.js": "/butterflyEffect/static/js/main.cabd2fc2.js",
+    "static/js/453.182fba32.chunk.js": "/butterflyEffect/static/js/453.182fba32.chunk.js",
+    "index.html": "/butterflyEffect/index.html",
+    "main.10cc203c.css.map": "/butterflyEffect/static/css/main.10cc203c.css.map",
+    "main.cabd2fc2.js.map": "/butterflyEffect/static/js/main.cabd2fc2.js.map",
+    "453.182fba32.chunk.js.map": "/butterflyEffect/static/js/453.182fba32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10cc203c.css",
+    "static/js/main.cabd2fc2.js"
+  ]
+}
